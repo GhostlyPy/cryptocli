@@ -1,3 +1,3 @@
 # cryptocli
 
-With this Command Line Interface Extension you will be able to check the current stock prices for certain crypto currencies.
+Open source Command Line Interface Extension that will let you check the current stock prices for certain crypto currencies.
