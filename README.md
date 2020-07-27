@@ -33,3 +33,7 @@ crypto check --coin=BTC,ETH
 ## Choose Currency (Default: USD)
 
 crypto check --cur=EUR
+
+# Version
+
+1.0.0
