@@ -27,11 +27,20 @@ const key = {
       const keyManager = new KeyManager();
       const key = keyManager.getKey();
 
-      console.log('Current API Key: ', key.yellow);
-    } catch (err) {}
+      console.log('Current API Key:', key.yellow);
+    } catch (err) {
+      console.error(err.message.red);
+    }
   },
   remove() {
-    console.log('Hello from remove');
+    try {
+      const keyManager = new KeyManager();
+      keyManager.deleteKey();
+
+      console.log('Key Removed'.blue);
+    } catch (err) {
+      console.error(err.message.red);
+    }
   }
 }
 
