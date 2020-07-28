@@ -36,7 +36,7 @@ cryptocli check price
 
 cryptocli check --crypto=BTC,ETH,etc.
 
-### Available Crypto Currencies (You can check over 2,000 difference currencies but it would be way to much to list here. You can find over 100+ supported currencies [here]())
+### Available Crypto Currencies (You can check over 2,000 difference currencies but it would be way to much to list here. You can find over 100+ supported currencies [here](https://github.com/GhostlyPy/cryptocli/blob/master/List/Supported_Currencies.csv))
 
 Bitcoin | BTC
 Ethereum | ETH
