@@ -38,23 +38,24 @@ cryptocli check --crypto=BTC,ETH,etc.
 
 ### Available Crypto Currencies (You can check over 2,000 difference currencies but it would be way to much to list here. You can find the entire list [here]())
 
-Bitcoin | BTC ![Bitcoin](https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/btc.svg) {height="50%" width="50%"}
 Bitcoin | BTC
-Bitcoin | BTC
-Bitcoin | BTC
-Bitcoin | BTC
-Bitcoin | BTC
-Bitcoin | BTC
-Bitcoin | BTC
-Bitcoin | BTC
-Bitcoin | BTC
-Bitcoin | BTC
-Bitcoin | BTC
-Bitcoin | BTC
+Ethereum | ETH
+Tether | USDT
+Ripple | XRP
+Cardano | ADA
+Litecoin | LTC
+Dogecoin | DOGE
 
-## Choose Currency (Default: USD)
+## Choose Currency Conversion
 
-cryptocli check --cur=EUR
+cryptocli check --cur=USD
+
+### Supported Languages
+
+United States Dollar | USD
+Euro | EUR
+Chinese Yuan | CNY
+Japanese Yen | JPY
 
 # Version
 
