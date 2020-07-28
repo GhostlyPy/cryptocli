@@ -4,7 +4,7 @@ Open source Command Line Interface that will let you check the current stock pri
 
 ## What was used to build this?
 
-HTML, CSS, JavaScript(Commander.js, Node.js) + [nomics](https://nomics.com/) API
+HTML, CSS, JavaScript(Commander.js, Node.js) + [nomics API](https://p.nomics.com/cryptocurrency-bitcoin-api)
 
 # How to use
 
