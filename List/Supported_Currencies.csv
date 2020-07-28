@@ -1,0 +1,101 @@
+currency,symbol,name
+BTC,BTC,Bitcoin
+ETH,ETH,Ethereum
+USDT,USDT,Tether
+XRP,XRP,Ripple
+BCH,BCH,Bitcoin Cash
+ADA,ADA,Cardano
+BSV,BSV,Bitcoin SV
+LTC,LTC,Litecoin
+CRO,CRO,Crypto.com Chain
+BNB,BNB,Binance Coin
+LINK,LINK,ChainLink
+EOS,EOS,EOS
+XTZ,XTZ,Tezos
+XLM,XLM,Stellar
+CDAI,CDAI,Compound Dai
+OKB,OKB,OKEx Utility Token
+HEX2,HEX,HEX
+XMR,XMR,Monero
+TRX,TRX,TRON
+LEOTOKEN,LEO,UNUS SED LEO
+USDC,USDC,USD Coin
+VET,VET,VeChain Thor
+HT,HT,Huobi Token
+ETC,ETC,Ethereum Classic
+NEO,NEO,NEO
+IOT,IOT,IOTA
+DASH,DASH,Dash
+ATOM,ATOM,Cosmos
+ZEC,ZEC,Zcash
+AMPL,AMPL,Ampleforth
+XEM,XEM,NEM
+MKR,MKR,Maker
+ONT,ONT,Ontology
+COMP,COMP,Compound
+DOGE,DOGE,Dogecoin
+FTXTOKEN,FTT,FTX Token
+BAT,BAT,Basic Attention Token
+SNX,SNX,Synthetix Network Token
+ERD,ERD,Elrond
+DGB,DGB,DigiByte
+LEND,LEND,Aave
+CETH,CETH,Compound Ether
+KNC,KNC,Kyber Network
+ZRX,ZRX,0x
+PAX,PAX,Paxos Standard
+QTUM,QTUM,Qtum
+THETA,THETA,Theta Token
+ALGO,ALGO,Algorand
+OMG,OMG,OMG Network
+REP,REP,Augur
+CEL,CEL,Celsius
+ICX,ICX,ICON
+DAI,DAI,Dai
+HBAR,HBAR,Hedera Hashgraph
+BUSD,BUSD,Binance USD
+BTG,BTG,Bitcoin Gold
+ZIL,ZIL,Zilliqa
+TUSD,TUSD,TrueUSD
+DCR,DCR,Decred
+LSK,LSK,Lisk
+MWC,MWC,MimbleWimbleCoin
+BCD,BCD,Bitcoin Diamond
+LUNA,LUNA,Luna
+ENJ,ENJ,Enjin Coin
+BTM,BTM,Bytom
+WAVES,WAVES,Waves
+HYN,HYN,Hyperion
+MONA,MONA,MonaCoin
+REN,REN,REN
+DX,DX,DxChain
+SC,SC,Siacoin
+RVN,RVN,RavenCoin
+NANO,NANO,Nano
+NEXO,NEXO,Nexo
+LRC,LRC,Loopring
+DIVI,DIVI,Divi
+SOLO,SOLO,Sologenic
+HOT,HOT,Holo
+BLOCKSTACK,STX,Blockstack
+CKB,CKB,Nervos Network
+NMR,NMR,Numeraire
+SNT,SNT,Status
+GT,GT,Gatechain Token
+SXP,SXP,Swipe
+XVG,XVG,Verge
+BNT,BNT,Bancor
+QNT,QNT,Quant
+XAUT,XAUT,Tether Gold
+DGTX,DGTX,Digitex Futures
+IOST,IOST,IOStoken
+ZEN,ZEN,Horizen
+YFI,YFI,yearn.finance
+TKX,TKX,Tokenize Xchange
+BITTORRENT,BTT,BitTorrent
+KMD,KMD,Komodo
+CHSB,CHSB,SwissBorg
+BAND,BAND,Band Protocol
+XNS,XNS,Insolar
+RUNE,RUNE,Thorchain
+MATIC,MATIC,Matic Network
