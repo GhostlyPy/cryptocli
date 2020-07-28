@@ -1,6 +1,6 @@
 {
   "name": "cryptocli",
-  "version": "1.0.2",
+  "version": "1.1.0",
   "description": "Open source Command Line Interface that will let you check the current stock prices for any crypto currency.",
   "main": "index.js",
   "bin": "./bin/crypto.js",
