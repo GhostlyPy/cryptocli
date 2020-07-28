@@ -26,7 +26,7 @@ cryptocli key remove | Removes the active API key
 
 cryptocli check price | Displays the coin, price, and rank in the terminal (Defaults: BTC,ETH,XRP)
 
-cryptocli check price --crypto=BTC | Displays the coin, price, and rank of a specific coin _*Over 2,000 coins supported!*_
+cryptocli check price --crypto=BTC | Displays the coin, price, and rank of a specific coin _(Over 2,000 coins supported!)_
 
 cryptocli check price --cur=USD | Converts the current price of the selected crypto currency to USD, EUR, JPY, or CNY
 
