@@ -30,21 +30,30 @@ cryptocli check price --crypto=BTC | Displays the coin, price, and rank of a spe
 
 cryptocli check price --cur=USD | Converts the current price of the selected crypto currency to USD, EUR, JPY, or CNY
 
-### Available Crypto Currencies (You can check over 2,000 difference currencies but it would be way to much to list here. You can find over 100+ supported currencies [here](https://github.com/GhostlyPy/cryptocli/blob/master/List/Supported_Currencies.csv))
+### Crypto Currencies (You can check over 2,000 different currencies. You can find over 100+ supported currencies [here](https://github.com/GhostlyPy/cryptocli/blob/master/List/Supported_Currencies.csv).)
 
 Bitcoin | BTC
+
 Ethereum | ETH
+
 Tether | USDT
+
 Ripple | XRP
+
 Cardano | ADA
+
 Litecoin | LTC
+
 Dogecoin | DOGE
 
 ### Supported Languages
 
 United States Dollar | USD
+
 Euro | EUR
+
 Chinese Yuan | CNY
+
 Japanese Yen | JPY
 
 # Version
