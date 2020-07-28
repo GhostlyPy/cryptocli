@@ -6,34 +6,40 @@ Open source Command Line Interface that will let you check the current stock pri
 
 HTML, CSS, JavaScript(Commander.js, Node.js) + [nomics](https://nomics.com/) API
 
+# How to use
+
+npm install
+
+npm link
+
 # Commands
 
 ## Help & Commands
 
-crypto -h
+cryptocli -h
 
 ## Version
 
-crypto -V
+cryptocli -V
 
 ## API Key Commands
 
-crypto key set
-crypto key show
-crypto key remove
+cryptocli key set
+cryptocli key show
+cryptocli key remove
 
 ## Crypto Check Commands
 
-crypto check price
+cryptocli check price
 
 ## Check Specific Coins (default: BTN,ETH,XRP)
 
-crypto check --coin=BTC,ETH
+cryptocli check --coin=BTC,ETH
 
 ## Choose Currency (Default: USD)
 
-crypto check --cur=EUR
+cryptocli check --cur=EUR
 
 # Version
 
-1.0.0
+1.0.1
