@@ -14,9 +14,9 @@ npm link
 
 # Commands
 
-cryptocli -h,--help | Help with commands
+cryptocli -h, --help | Help with commands
 
-cryptocli -V,--version | Displays the Version
+cryptocli -V, --version | Displays the Version
 
 cryptocli key set | Used for setting the API key obtained from the nomics website
 
